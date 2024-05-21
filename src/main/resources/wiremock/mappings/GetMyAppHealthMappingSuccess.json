@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPath": "/hello/mock/health"
+  },
+  "response": {
+    "status": 200,
+    "body": "OK"
+  }
+}
